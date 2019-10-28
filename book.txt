@@ -1,0 +1,9 @@
+Code      Title               Quantity  Lender    Price     Value     
+B08       Book08              7         0         100.0     700.00    
+B01       Book1               10        0         20.0      200.00    
+B02       Book2               30        0         15.0      450.00    
+B09       Book9               40        0         90.0      3600.00   
+B03       Book3               20        0         30.0      600.00    
+B05       Book5               90        0         150.0     13500.00  
+B06       Book6               80        0         60.0      4800.00   
+B07       Book07              40        0         30.0      1200.00   
